@@ -19,3 +19,10 @@ alert("The index of 'n' in the word 'Pakistani' is: " + index);
 var word = "Hello World";
 var lastIndex = word.lastIndexOf("l");
 alert("The last index of 'l' in the word 'Hello World' is: " + lastIndex);
+
+// question - 05
+var word = "Pakistani";
+var character = word.charAt(3);
+alert(
+  "The character at the 3rd index in the word 'Pakistani' is: " + character
+);

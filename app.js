@@ -57,3 +57,13 @@ alert(
     "\nType of converted value: " +
     typeof number
 );
+
+// question - 10
+// not solved
+
+// Question - 11
+var userInput = prompt("Enter some text:");
+var capitalizedInput = userInput.toUpperCase();
+alert(
+  "Original input: " + userInput + "\nCapitalized input: " + capitalizedInput
+);

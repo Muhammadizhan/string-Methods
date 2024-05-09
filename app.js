@@ -37,3 +37,5 @@ alert("Hello, " + fullName + "! Welcome.");
 var city = "Hyderabad";
 var newCity = city.replace("Hyder", "Islam");
 alert("Original city: " + city + "\nNew city: " + newCity);
+
+// question - 08
